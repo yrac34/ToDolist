@@ -2,5 +2,8 @@
 
 A simple app that helps you stay organized while using cool neumorphic buttons :)
 
-Uploading Simulator Screen Recording - iPhone 11 - 2022-10-23 at 14.02.49.mp4…
+
+https://user-images.githubusercontent.com/83843506/197418202-8dc41218-c011-41d4-8108-ca609d6f34ca.mp4
+
+
 
